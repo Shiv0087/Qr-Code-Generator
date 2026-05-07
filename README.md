@@ -38,6 +38,6 @@ Welcome to the **QR Code Generator** – a premium, minimal, and powerful web to
 ## 🛠️ How to Run Locally
 
 ```bash
-git clone https://github.com/matrixCoderX/Qr-Code-Generator.git
+git clone https://github.com/Shiv0087/Qr-Code-Generator.git
 cd Qr-Code-Generator
 open index.html in your browser
